@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CandiceLankie
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Software development
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me on email refilwemohlalaa@gmail.com
 
 <!---
