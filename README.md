@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CandiceLankie
-- 👀 I’m a Software development
+- 👀 I’m a Software developer
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me on email refilwemohlalaa@gmail.com
